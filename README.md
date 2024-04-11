@@ -1,0 +1,1 @@
+Utilização de Java puro com persistência em arquivo. No sistema são utilizados os enums, lançamento de exceptions e a classe Servico para fazer a mediação entre as entidaes e a classe de persistência.
